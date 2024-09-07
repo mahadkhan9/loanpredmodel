@@ -18,12 +18,6 @@ The process involved:
 4. Feature Importance Analysis: We analyzed the impact of each feature on loan acceptance to gain business insights.
 
 ## 4. Results
-The model achieved a high AUC score of 0.958, indicating excellent discriminative power. Key features influencing loan acceptance included CD accounts, education level, and account types. The model's precision and recall were balanced to ensure effective targeting of potential loan acceptors.
-
-## 5. Learning
-Business Insights: Customers with CD (Certificate of Deposit) accounts and higher education levels are more likely to accept loans, guiding targeted marketing strategies.
-Model Robustness: The model's high AUC score across cross-validation folds confirms its reliability and generalizability.
-Continuous Improvement: Future iterations could explore more complex models or additional features to further enhance recall and precision.
-By aligning the model's predictions with business objectives, we can effectively target the right customers, reduce marketing costs, and increase loan acceptance rates. This project demonstrates the power of data analytics in driving strategic business decisions.
+The model achieved a high AUC score of 0.958, indicating excellent discriminative power. Key features influencing loan acceptance included CD accounts, education level, and account types. The model's precision and recall were balanced to ensure effective targeting of potential loan acceptors. Customers with CD (Certificate of Deposit) accounts and higher education levels are more likely to accept loans, guiding targeted marketing strategies.
 
 *Note: The model was based on data analysis, demographic factors, and understanding of the financial sector.*
